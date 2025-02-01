@@ -2,7 +2,7 @@
 - I'm interested in software development and creating cool things with code!
 - I'm currently learning object-oriented software development using C++ and JavaScript. 
 - Pronouns: he/him
-- Fun fact: I was once forced to code, but now I can’t stop!
+- Fun fact: I'm learning to skate!
 - Intrests - Travelling and trying out new kinds of food.
 
 
