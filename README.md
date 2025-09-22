@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hiru
 - I'm interested in software development and creating cool things with code!
-- I'm currently learning object-oriented software development using C++ and JavaScript. 
+- I'm currently studying object-oriented software development with a focus on C++, JavaScript, and Python. 
 - Pronouns: he/him
 - Fun fact: I'm learning to skate!
 - Intrests - Travelling and trying out new kinds of food.
