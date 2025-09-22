@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hiru
+- 👋 Hi, I’m Hiru
 - I'm interested in software development and creating cool things with code!
 - I'm currently studying Object-Oriented software development with a focus on C++, JavaScript, and Python. 
 - Pronouns: he/him
