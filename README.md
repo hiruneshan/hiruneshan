@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Hiru
-- I'm interested in software development and creating cool things with code!
-- I'm currently studying Object-Oriented software development with a focus on C++, JavaScript, and Python. 
-- Pronouns: he/him
-- Fun fact: I'm learning to skate!
-- Intrests - Travelling, Reading and trying out new kinds of food.
+# 👋 Hi, I’m Hiru
+
+I’m a software development student based in **Toronto, Canada**, with a strong interest in building clean, scalable, and meaningful software systems.
+
+I enjoy working across both **front-end and back-end development**, with a focus on **object-oriented design**, problem solving, and real-world applications.
 
 
 <div align="left">
