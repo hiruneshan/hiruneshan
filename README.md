@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hiru
+Hi, I’m Hiru
 
 I’m a software development student based in **Toronto, Canada**, with a strong interest in building clean, scalable, and meaningful software systems.
 
