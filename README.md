@@ -4,7 +4,7 @@ I’m a software development student based in **Toronto, Canada**, with a strong
 
 I enjoy working across both **front-end and back-end development**, with a focus on **object-oriented design**, problem solving, and real-world applications.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
