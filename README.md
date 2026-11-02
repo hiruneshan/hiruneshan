@@ -1,3 +1,4 @@
+
 Hi, I’m Hiru
 
 I’m a software development student based in **Toronto, Canada**, with a strong interest in building clean, scalable, and meaningful software systems.
@@ -21,7 +22,7 @@ I enjoy working across both **front-end and back-end development**, with a focus
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   <img width="12" />
